@@ -1,8 +1,26 @@
 aid: mia
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mia.png
 name: Mia
-description: 'Mia is a company surfaced as a portfolio company of norwest-venture-partners and added to
-  the API Evangelist network as a stub for enrichment. Sector: unknown. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Mia (Mia Labs, Inc.) is an AI-powered phone agent platform built specifically for
+  automotive dealerships. Its conversational voice AI answers calls 24/7 across sales, service,
+  reception, and outbound operations, handling appointment scheduling, service booking, lead
+  capture, and recall/follow-up outreach over phone, SMS, and voice with automatic multi-language
+  detection. Mia integrates with major dealership platforms and DMS/CRM systems including Tekion,
+  CDK, Reynolds & Reynolds, and Dealertrack, and reports use across 350+ dealerships. The company
+  raised a $20M Series A (roughly $29M total) backed by Norwest Venture Partners and Permanent
+  Capital Ventures. This profile currently covers the company identity; no public developer API,
+  documentation, or SDK surface was found during enrichment.'
 url: https://raw.githubusercontent.com/api-evangelist/mia/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +30,23 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 1
+  pass: local-v1
 tags:
 - Company
-- Unknown
+- Artificial Intelligence
+- Voice AI
+- Conversational AI
+- Automotive
+- Dealership
+- Phone Agent
+- Customer Communications
+- SMS
+- Automotive Retail
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +54,17 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/mia-domain-security.yml
 - type: Website
   url: https://mia.inc
+- type: Blog
+  url: https://mia.inc/resources
+- type: Login
+  url: https://dashboard.mia.inc/auth/sign-in
+- type: SignUp
+  url: https://mia.inc/request-a-demo
+- type: TermsOfService
+  url: https://mia.inc/terms-of-service
+- type: PrivacyPolicy
+  url: https://mia.inc/privacy-policy
