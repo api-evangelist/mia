@@ -1,0 +1,29 @@
+# Front Door AI Index — mia — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: mia
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: mia.inc
+  final_host: www.mia.inc
+  ownership: own
+  owner: mia
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 19
+  host_score: 19
+  density: 15.38
+  words: 1235
+  tiers:
+    agentic: 1
+    core: 18
+    model: 0
+  ambiguous: 2
+  top_terms:
+    AI: 16
+    generative ai: 2
+    agent: 1
+    agentic: 1
+    automation: 1
