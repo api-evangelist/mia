@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mia is a company surfaced as a portfolio company of norwest-venture-partners and added to the API Evangelist network as a stub for enrichment. Sector: unknown. This profile is a lead awaiting the enrichment pipeline.
+Mia (Mia Labs, Inc.) is an AI-powered phone agent platform built specifically for automotive dealerships. Its conversational voice AI answers calls 24/7 across sales, service, reception, and outbound operations, handling appointment scheduling, service booking, lead capture, and recall/follow-up outreach over phone, SMS, and voice with automatic multi-language detection. Mia integrates with major dealership platforms and DMS/CRM systems including Tekion, CDK, Reynolds & Reynolds, and Dealertrack, and reports use across 350+ dealerships. The company raised a $20M Series A (roughly $29M total) backed by Norwest Venture Partners and Permanent Capital Ventures. This profile currently covers the company identity; no public developer API, documentation, or SDK surface was found during enrichment.
 
-Backed by: norwest-venture-partners — https://mia.inc
+**Areas:** Company · Artificial Intelligence · Voice AI · Conversational AI · Automotive · Dealership · Phone Agent · Customer Communication · SMS · Automotive Retail
+
+## Mia on APIs.io
+
+Everything profiled for Mia is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mia/](https://apis.io/providers/mia/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Mia Domain Security](https://apis.io/security/mia/mia-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mia.inc)
+- [Sign up](https://mia.inc/request-a-demo)
+- [Blog](https://mia.inc/resources)
+- [Terms of service](https://mia.inc/terms-of-service)
+- [Privacy policy](https://mia.inc/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 10.7** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 34.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Telecommunications
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mia/](https://apis.io/providers/mia/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Mia: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mia/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
